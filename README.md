@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Future Projects (Secret for now)
 - 🤔 I’m looking for help with (again Secret)
 - 💬 Ask me about Games, Coding, Tech News
-- 📫 How to reach me: sambhavsoni14@gmail.com
+- 📫 How to reach me: Discord @smugcurve13
 - 😄 Pronouns: He/Him
 
 -->
