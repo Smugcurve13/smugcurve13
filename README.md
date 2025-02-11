@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with (again Secret)
 - 💬 Ask me about Games, Coding, Tech News
 - 📫 How to reach me: Discord @smugcurve13
-- 😄 Pronouns: He/Him
+
 
 -->
