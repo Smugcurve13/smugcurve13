@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Advanced python
-- 👯 I’m looking to collaborate on Future Projects (Secret for now)
-- 🤔 I’m looking for help with (again Secret)
-- 💬 Ask me about Games, Coding, Tech News
-- 📫 How to reach me: Discord @smugcurve13
+💻 I work with React, JavaScript, Python & love making scripts
 
+🌐 Passionate about web dev and open to collaborate on cool projects
+
+💬 Ask me about Games, Coding, Tech News
+
+📫 Reach me: Discord @smugcurve13 or [LinkedIn]([https://link-url-here.org](https://www.linkedin.com/in/sambhavsoni14/))
 
 -->
