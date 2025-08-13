@@ -6,6 +6,6 @@
 
 💬 Ask me about Games, Coding, Tech News
 
-📫 Reach me: Discord @smugcurve13 or [LinkedIn]([https://link-url-here.org](https://www.linkedin.com/in/sambhavsoni14/))
+📫 Reach me: Discord @smugcurve13 or [LinkedIn](https://www.linkedin.com/in/sambhavsoni14/)
 
 -->
