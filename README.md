@@ -1,39 +1,32 @@
 # Sambhav Soni
 
-![Python](https://img.shields.io/badge/Python-3.x-black) ![Flask](https://img.shields.io/badge/Flask-API-black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-black) ![Docker](https://img.shields.io/badge/Docker-Containers-black) ![Linux](https://img.shields.io/badge/Linux-Primary%20OS-black) ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20SES-black) ![Azure](https://img.shields.io/badge/Azure-Data%20%7C%20Tables-black) ![Git](https://img.shields.io/badge/Git-Version%20Control-black) ![pytest](https://img.shields.io/badge/pytest-Testing-black)
+> I build small, sharp tools to fix things that annoy me. Some escape into production.
 
-Backend engineer. Systems thinker. Focus on building software that survives contact with reality.
+Full-stack developer in Delhi — Python + TypeScript, with a soft spot for local AI, automation, and desktop utilities.
 
----
+### Desktop & Media
+**[SmuggyConverter](https://github.com/Smugcurve13/smuggy-converter-win-app)** — YouTube / Spotify → MP3 converter. Windows desktop app.
 
-## Profile
+**[SmuggyTranscriber](https://github.com/Smugcurve13/smuggy-transcriber)** — Audio-to-text transcription with one-click Hinglish transliteration. PySide6 + Groq Whisper.
 
-* Professionally shipping backend systems in Python.
-* Designs infrastructure with scalability as a default constraint, not an afterthought.
-* Prioritizes correctness, observability, and maintainability over shortcuts.
-* Treats tooling, testing, and architecture as leverage, not overhead.
+### Smart Home
+**[WiZ Control — Web](https://github.com/Smugcurve13/wiz-control-by-SC13)** — Control WiZ smart lights from a Python web app.
 
----
+**[WiZ Control — macOS](https://github.com/Smugcurve13/wiz-mac-control)** — Same app, rebuilt natively in Swift for the Mac menu bar.
 
-## Technical Focus
+### Automation & Infra
+**[SmuggyDiscordBot](https://github.com/Smugcurve13/smuggydiscordbot)** — Manage a Linux server straight from Discord.
 
-**Languages**
-Python, SQL, Bash
+### System Utilities
+**[battery-report-macos](https://github.com/Smugcurve13/battery-report-macos)** — Dock-free macOS menu bar battery monitor. Python/rumps, launchd agent, survives reboots.
 
-**Frameworks & Libraries**
-Flask, psycopg2, pytest, threading/concurrency primitives
-
-**Data & Storage**
-PostgreSQL, Azure Tables, CSV pipelines, schema design
-
-**Infrastructure & Tooling**
-Linux, Docker, AWS (EC2, SES), Azure services, Git, CI discipline
+**[windows-lockscreen-image-change](https://github.com/Smugcurve13/windows-lockscreen-image-change)** — Swap the lock screen on non-activated Windows 11.
 
 ---
 
-## Contact
+**Currently:** co-building **Heimdyn**, a full-stack ERP for small manufacturers.
 
-Sambhav Soni
-Backend Engineering · Systems Design
-
-
+### Contact
+- **Email** — [sambhavsoni14@gmail.com](mailto:sambhavsoni14@gmail.com)
+- **LinkedIn** — [linkedin.com/in/sambhavsoni14](https://linkedin.com/in/sambhavsoni14)
+- **Portfolio** — [sambhavsoni.is-a.dev](https://sambhavsoni.is-a.dev/)
