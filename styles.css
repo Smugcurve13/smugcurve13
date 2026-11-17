@@ -1,5 +1,5 @@
 * { box-sizing: border-box; }
-:root { color-scheme: dark; --bg: #101112; --ink: #f4f1e9; --muted: #c8bdd8; --line: #302838; --card: #19171e; --accent: #b388ff; }
+:root { color-scheme: dark; --bg: #020806; --ink: #e8fff3; --muted: #9fbbb0; --line: #18362d; --card: #071a15; --accent: #00f5bd; }
 body { min-height: 100svh; margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.65 system-ui, sans-serif; }
 main { width: min(100% - 48px, 720px); margin: 0 auto; padding: clamp(72px, 14vh, 150px) 0 72px; }
 .eyebrow { margin: 0 0 14px; color: var(--accent); font-size: 11px; font-weight: 800; letter-spacing: 3px; }
@@ -12,7 +12,7 @@ section p { margin: 12px 0; color: var(--muted); }
 .links { margin-top: 54px; }
 .links a { display: block; margin-top: 8px; padding: 18px 20px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); font-weight: 750; line-height: 1.25; text-decoration: none; transition: border-color .15s, background .15s; }
 .links a span { display: block; margin-top: 4px; color: var(--muted); font-size: 13px; font-weight: 400; }
-.links a:hover { border-color: var(--accent); background: #21192c; }
+.links a:hover { border-color: var(--accent); background: #0b2a22; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 footer { width: min(100% - 48px, 720px); margin: 0 auto; padding: 20px 0 32px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; }
 @media (max-width: 600px) { main { width: min(100% - 32px, 720px); padding-top: 72px; } footer { width: min(100% - 32px, 720px); } }
